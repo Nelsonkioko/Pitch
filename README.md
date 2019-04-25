@@ -4,7 +4,7 @@ This is a Python app that allows users to view and publish ideas on how to do a 
 
 ## Author name
 
-[David Watibini Makhanu](https://github.com)
+Nelson Kioko
 
 ## Project Description
 
@@ -12,7 +12,7 @@ This is an app that allows users to view, write and vote for different pitches f
 
 ## Technologies Used
 
-Python 3.6
+Python 3.6 and the flask framework
 
 ## Application requirements
 
@@ -55,7 +55,7 @@ Python 3.6
 
 or just use this
 
-`$ git clone https://github.com/watibini/pitch.git`
+`$ git clone https://github.com/Nelsonkioko/pitch.git`
 
 4. Run the following command to make the app executable;
 
@@ -77,23 +77,14 @@ or just use this
 | User clicks on pitch button | pitch is added to list of pitches and is displayed on users profile|
 | User clicks on profile | List of pitches are displayed|
 
-## TDD
-
--To test the app, run this commands in the terminal;
-
-`$ python3.6 models.py`
-
-`$ python3.6 manager.py test`
 
 ## Live link
 
-Use this link to see the web-page
 
-(<https://watibini.github.io/pitch/>)
 
 ## Contact Information
 
-Email-(watimakhanu@gmail.com)
+Email- kiokonelson2@gmail.com
 
 Github user name -Watibini
 
@@ -101,7 +92,7 @@ Github user name -Watibini
 
 MIT License
 
-Copyright (c) [2019] [David Watibini Makhanu]
+Copyright (c) [2019] [Nelson Kioko]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
