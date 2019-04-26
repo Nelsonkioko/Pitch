@@ -74,7 +74,7 @@ or just use this
 | User logins | once user is authenticated home page is displayed|
 | User Clicks on a category | Category page is displayed|
 | User clicks on add a pitch | Pitch forms are displayed|
-| User clicks on pitch button | pitch is added to list of pitches and is displayed on users profile|
+| User clicks on add category button | category is added to list of categories|
 | User clicks on profile | List of pitches are displayed|
 
 
