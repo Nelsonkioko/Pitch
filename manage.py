@@ -6,6 +6,7 @@ from flask_migrate import Migrate, MigrateCommand
 
 # Creating app instance
 app = create_app('development')
+app = create_app('production')#We pass in the production option from our config_options dictionary. This will change our app's configurations to the ProdConfig class.
 
 
 manager = Manager(app)
