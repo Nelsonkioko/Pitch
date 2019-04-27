@@ -1,7 +1,7 @@
 
 from flask import render_template, request, redirect, url_for, abort
 from . import main
-from ..models import User,Pitch,Comments,PitchCategory,Votes
+from ..models import User,Pitch,Comments,PitchCategory
 from .. import db
 from . forms import PitchForm, CommentForm, CategoryForm
 from flask_login import login_required,current_user
