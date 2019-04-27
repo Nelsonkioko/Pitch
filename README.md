@@ -14,7 +14,7 @@ This is an app that allows users to view, write and vote for different pitches f
 
 Python 3.6 and the flask framework
  
-## Application requirements  
+## Application requirements
 
 1. Ensure you have Python3.6 installed in your computer. you can download it by running this command
 
