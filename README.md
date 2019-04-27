@@ -55,7 +55,7 @@ Python 3.6 and the flask framework
 
 or just use this
 
-`$ git clone https://github.com/Nelsonkioko/pitch.git`
+`$ git clone https://github.com/Nelsonkioko/pitch.git`  
 
 4. Run the following command to make the app executable;
 
