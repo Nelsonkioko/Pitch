@@ -6,7 +6,7 @@ This is a Python app that allows users to view and publish ideas on how to do a 
 
 Nelson Kioko
 
-## Project Description
+## Project Description 
 
 This is an app that allows users to view, write and vote for different pitches from different categories. The app is of great importance since it gives users ideas on how to pitch for there different items in there industry specifics.
 
