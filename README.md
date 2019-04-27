@@ -86,7 +86,7 @@ or just use this
 
 Email- kiokonelson2@gmail.com
 
-Github user name -Watibini
+
 
 ## License
 
