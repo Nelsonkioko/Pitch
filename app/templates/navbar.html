@@ -1,4 +1,4 @@
-<div class="navbar navbar-inverse" role="navigation">
+<div class="navbar navbar-inverse" role="navigation" style='padding-bottom:2em;'>
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle = "collapse" data-target = ".navbar-collapse">
@@ -14,7 +14,7 @@
             <ul class="nav navbar-nav navbar-right">
                {% if current_user.is_authenticated %}
 
-                   <li><a href="/">Hi there {{current_user.username.capitalize()}}</a></li>
+                   <li><a href="/">Hi there... {{current_user.username.capitalize()}}</a></li>
                    <li><a href="{{url_for('auth.logout')}}">Sign out</a></li>
 
                {%else%}

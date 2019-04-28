@@ -5,7 +5,7 @@ class Config:
 
 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://nelson:kioko@localhost/pitches'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://nelson:kioko@localhost/db001'
 
     SECRET_KEY = "skrrrrrr"
     UPLOADED_PHOTOS_DEST = 'app/static/photos'
@@ -30,6 +30,6 @@ class DevConfig(Config):
 
 
 config_options = {
-    # 'development': DevConfig,   
-    'production': ProdConfig
+    'development': DevConfig,   
+    # 'production': ProdConfig
 }
